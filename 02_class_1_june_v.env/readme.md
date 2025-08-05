@@ -11,3 +11,5 @@ uv venv
 
 Uv add openai-agents
 uv add python-.env ## is say hmarsy python ky env varaibles load hoty hain
+uv add python_dotenv # ye command hum jb chlaty hain jb esa ho ky uv add openai-agents karny say dotenv load na ho
+
